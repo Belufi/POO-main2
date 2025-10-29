@@ -1,4 +1,6 @@
-public class Alunos {
+
+
+class Alunos {
 
     private int  Prontuario;
     private String Nome;

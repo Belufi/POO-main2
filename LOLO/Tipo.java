@@ -1,3 +1,5 @@
+package LOLO;
+
 public class Tipo {
     
     private String descrição;

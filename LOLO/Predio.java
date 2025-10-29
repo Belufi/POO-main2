@@ -1,3 +1,5 @@
+package LOLO;
+
 public class Predio {
     private String nome;
 

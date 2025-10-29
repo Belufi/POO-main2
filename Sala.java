@@ -1,4 +1,8 @@
 
+
+import LOLO.Mesa;
+import LOLO.Predio;
+import LOLO.Tipo;
 import java.util.ArrayList;
 
 public class Sala {
